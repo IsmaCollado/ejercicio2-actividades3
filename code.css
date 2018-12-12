@@ -5,3 +5,6 @@ div{
 footer{
     margin: 0 auto;
 }
+header:hover {
+    backgroud-color: lightgreen;
+}
